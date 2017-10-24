@@ -1,0 +1,35 @@
+* {
+  font-size: 18px;
+  text-align: center;
+}
+
+div {
+  border: 1px solid black;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+img {
+  padding: 10px;
+  margin: 0;
+}
+
+.checkboxes div{
+  border: none;
+}
+
+fieldset {
+  border: none;
+}
+
+textarea {
+  width: 95%;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+#select-button {
+  margin-left: 20px;
+}
